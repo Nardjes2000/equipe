@@ -8,7 +8,7 @@ const SideBar = () => {
   return (
     <SideNav id="Sidebar"
     onSelect={(selected) => {
-        // Add your code here
+
     }}
 >
     <SideNav.Toggle />

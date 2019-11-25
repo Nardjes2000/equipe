@@ -19,9 +19,6 @@ class ListTheseComponent extends Component {
     constructor(props) {
         super(props)
         this.state = {
-           /* theses: [{ id: 1,title:"Detection de fraude", profsName: 'Wasif', studentName: 'boutata', month: 'Mai 2019', description: 'wasif@email.com' },{ id: 1,title:"Detection de fraude", profsName: 'Wasif', studentName: 'boutata', month: 'Mai 2019', description: 'wasif@email.com' },{ id: 1,title:"Detection de fraude", profsName: 'Wasif', studentName: 'boutata', month: 'Mai 2019', description: 'wasif@email.com' },{ id: 1,title:"Detection de fraude", profsName: 'Wasif', studentName: 'boutata', month: 'Mai 2019', description: 'wasif@email.com' },{ id: 1,title:"Detection de fraude", profsName: 'Wasif', studentName: 'boutata', month: 'Mai 2019', description: 'wasif@email.com' },
-            { id: 1,title:"Detection de fraude", profsName: 'Wasif', studentName: 'boutata', month: 'Mai 2019', description: 'wasif@email.com' },
-            { id: 1,title:"Detection de fraud],*/
             theses: [{
             id:'',
             title:'',

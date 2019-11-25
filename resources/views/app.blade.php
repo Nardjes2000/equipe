@@ -8,7 +8,7 @@
         <meta name="csrf-token" content="{{ csrf_token() }}">
         <title>Tryout</title>
         <!-- Styles -->
-        <link href="{{ asset('js/components/App.css') }}" rel="stylesheet">
+        <link rel="stylesheet" href="../js/components/App.css" >
     </head>
     <body>
         <div id="app"></div>

@@ -54,7 +54,7 @@ export default class Login extends Component {
 
                 <div className="form-group">
                     <label for='email'>Email address</label>
-                    <input id="email" type="email"  ref="email" className="form-control" name="email" placeholder="Enter email" hintText="Enter your Username"
+                    <input id="email" type="email"  ref="email" className="form-control" name="email" placeholder="Enter email"
                     onChange={this.onChange.bind(this)} required />
                 </div>
 
@@ -67,7 +67,7 @@ export default class Login extends Component {
                 <div className="form-group">
                     <div className="custom-control custom-checkbox">
                         <input type="checkbox" className="custom-control-input" id="customCheck1" name="remember"/>
-                        <label className="custom-control-label" htmlfor="customCheck1">Remember me</label>
+                        <label className="custom-control-label" htmlFor="customCheck1">Remember me</label>
                     </div>
                 </div>
 
